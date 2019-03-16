@@ -1,6 +1,6 @@
 # Coursera-Java-for-Android
 ### Solutions for the course Java for Android
-#### Please do star the repository if you are using it for getting help in the course
+#### Please do star the repository if you are using it for getting help in the course . Fork the project and work collborate to improve the solutions . PRs are welcome.
 
 ##### Week 1
 [Solutions](https://github.com/TheAlgo/Coursera-Java-for-Android/tree/master/Week%201)
