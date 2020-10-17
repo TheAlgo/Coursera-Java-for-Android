@@ -92,7 +92,7 @@ public class Logic
                 }
             }
         }
-        return dupcount*100.0/count;
+        return dupcount*100.0/(double)count;
 
     }
     // TODO - add your code here
